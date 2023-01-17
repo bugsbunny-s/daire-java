@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 import javax.swing.text.html.StyleSheet;
-public class App {
+public class daire {
     public static void main(String[] args) throws Exception {
         int r;
         double cevre,alan, pi = 3.14;
