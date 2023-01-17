@@ -26,10 +26,3 @@ public class daire {
         System.out.println("Dairenin merkez açısı : " + merkez);
      }
 }
-
-       
-
-       
-
-
-
